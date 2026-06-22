@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio & Projects
+# Cybersecurity Portfolio & Projects John Bryce & Think Cyber
 **Author:** Yonatan Avitan  
 **Focus:** SOC Operations, Incident Response, Digital Forensics, Penetration Testing & Automation (Bash/Python)
 
